@@ -1,2 +1,2 @@
 mysql:8.0.3
-nacos:2.3.2
+nacos:2.2.0
