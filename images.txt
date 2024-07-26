@@ -1,2 +1,2 @@
 mysql:9.0.1
-docker-compose:v2.19.0
+docker-compose:2.19.0
