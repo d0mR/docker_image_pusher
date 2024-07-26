@@ -1,2 +1,2 @@
-mysql:lastest
-nacos:2.2.0
+mysql:9.0.1
+nacos:2.2.3
